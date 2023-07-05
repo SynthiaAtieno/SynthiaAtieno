@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Laravel and Springboot**
 
-- 👯 I’m looking to collaborate on **open Source orojects**
+- 👯 I’m looking to collaborate on **open Source projects**
 
 - 🤝 I’m looking for help with **creating secure and scalabe APIs**
 
