@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SynthiaAtieno&show_icons=true&locale=en" alt="synthiaatieno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SynthiaAtieno&" alt="synthiaatieno" /></p>
+
